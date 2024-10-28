@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Splinter Cell",
+    "genre": "Stealth",
+    "imageFile": "/public/Thumbs/thumb_splintercell.jpg"
+  },
+  {
+    "title": "Grand theft auto V",
+    "genre": "Action",
+    "imageFile": "/public/Thumbs/thumb_gtav.jpg"
+  },
+  {
+    "title": "Call of Duty",
+    "genre": "FPS",
+    "imageFile": "/public/Thumbs/thumb_call_of_duty.jpg"
+  },
+  {
+    "title": "Forza Motorsport 4",
+    "genre": "Racing",
+    "imageFile": "/public/Thumbs/thumb_forza4.jpg"
+  },
+  {
+    "title": "Red Dead Redemption",
+    "genre": "Action",
+    "imageFile": "/public/Thumbs/thumb_red_dead_redemption.jpg"
+  },
+  {
+    "title": "Halo 4",
+    "genre": "FPS",
+    "imageFile": "/public/Thumbs/thumb_halo4.jpg"
+  }
+]
